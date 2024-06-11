@@ -1,0 +1,31 @@
+body {
+    background-color: #fff200; /* Jaune pour le fond */
+    color: #000000; /* Noir pour le texte */
+}
+
+input[type="text"], 
+select, 
+textarea {
+    border: 2px solid #000000; /* Noir pour les bordures des champs */
+    background-color: #fff200; /* Jaune pour le fond des champs */
+    color: #000000; /* Noir pour le texte des champs */
+}
+
+button {
+    background-color: #000000; /* Noir pour les boutons */
+    color: #fff200; /* Jaune pour le texte des boutons */
+}
+
+header, 
+footer {
+    background-color: #000000; /* Noir pour l'en-tête et le pied de page */
+    color: #fff200; /* Jaune pour le texte de l'en-tête et du pied de page */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #000000; /* Noir pour les titres */
+}
+
+label {
+    color: #000000; /* Noir pour les labels */
+}
